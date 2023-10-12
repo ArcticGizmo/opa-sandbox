@@ -9,6 +9,7 @@ Testing out opa
 ### Resources
 - https://www.openpolicyagent.org/docs/latest/#running-opa
 - https://www.openpolicyagent.org/docs/latest/deployments/
+- https://play.openpolicyagent.org/
 
 ## Getting Started
 First you will need to get OPA running locally. For this we will use docker-compose to make sure things are nice and simple
