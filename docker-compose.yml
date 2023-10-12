@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  opa:
+    image: openpolicyagent/opa
+    ports:
+      - '8500:8500'
+    command: run --server --addr :8500 --log-level debug
